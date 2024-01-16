@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeya Das</h1>
-<h3 align="center">💖 A Passionate Coder and an Aspiring SDE 🌟</h3>
+<h3 align="center">💖 An Aspiring SDE 🌟</h3>
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=SHREEYA-DAS&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
