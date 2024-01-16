@@ -1,12 +1,8 @@
-
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Shreeya%20Das&text2=💖%20A%20Passionate%20Coder%20and%20an%20Aspiring%20SDE%20🌟&width=900&height=400)
+<h1 align="center">Hi 👋, I'm Shreeya Das</h1>
+<h3 align="center">💖 A Passionate Coder and an Aspiring SDE 🌟</h3>
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=SHREEYA-DAS&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-
-
-
 
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=SHREEYA-DAS&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
