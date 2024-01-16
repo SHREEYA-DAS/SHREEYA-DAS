@@ -30,10 +30,3 @@
 </a>
 </p>
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=SHREEYA-DAS&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=SHREEYA-DAS&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
